@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS CLI v2
 
 This bundle contains a built executable of the AWS CLI v2.
@@ -52,3 +53,6 @@ $ sudo rm /usr/local/bin/aws_completer
 Note if you installed the AWS CLI v2 using the `-b` or `-i` options, you will
 need to remove the installation and the symlinks in the directories you
 specified.
+=======
+# AWS
+>>>>>>> 73b0486f7e67cfe9355505c5ead4670426c38461
