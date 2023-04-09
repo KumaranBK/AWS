@@ -1,0 +1,12 @@
+I AM roles for services
+
+1. Some AWS services need to perform actions on your behalf
+
+2.TO do so we will assign permission to AWS service with IAMroles
+
+3.Common roles:
+
+  a.EC2 instance roles
+  b.Lambda Function roles
+  c.Roles for cloud formations
+  d.Global administrator role is the maximum level of IAM role in whcih can perf  orm all the task and can access all the services.
